@@ -1,4 +1,5 @@
+# -*- coding: utf-8 -*-
 怎么理解shell?
 怎么在Git中调用shell？
 在Git中输入python manage.py shell没有反应
-怎么在Git中测试！ 
+怎么在Git中测试？ 
